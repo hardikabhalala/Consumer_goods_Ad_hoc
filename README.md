@@ -10,7 +10,7 @@ sufficient insights to make prompt, wise, and data-informed judgments.They hire 
 SQL Query Writing using CTE,rank,joins, date functions,sub-queries,numeric functions etc.
 Data Extraction and Transformation,
 Data Analysis and Interpretation,
-Report Generation,,
+Report Generation,
 Problem Solving and Decision Making.
 # Tools used
 MySQL: For SQL Queries, Microsoft PowerPoint: For Presenting Insights.
